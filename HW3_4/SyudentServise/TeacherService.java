@@ -1,4 +1,4 @@
-package OOP_Java.HW3_4.SyudentServise;
+package OOP_Java.HW3_4.StudentServise;
 
 import OOP_Java.HW3_4.StudentDomen.Student;
 import OOP_Java.HW3_4.StudentDomen.Teacher;

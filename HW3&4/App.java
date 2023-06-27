@@ -1,8 +1,8 @@
-package OOP_Java.HW3&4;
+package OOP_Java.HW3_4;
 
-import OOP_Java.HW3&4.Controllers.EmploeeController;
-import OOP_Java.HW3&4.StudentDomen.*;
-import OOP_Java.HW3&4.SyudentServise.EmploeeService;
+import OOP_Java.HW3_4.Controllers.EmploeeController;
+import OOP_Java.HW3_4.StudentDomen.*;
+import OOP_Java.HW3_4.SyudentServise.EmploeeService;
 
 import java.util.ArrayList;
 import java.util.Collections;

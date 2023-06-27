@@ -2,7 +2,7 @@ package OOP_Java.HW3_4;
 
 import OOP_Java.HW3_4.Controllers.EmploeeController;
 import OOP_Java.HW3_4.StudentDomen.*;
-import OOP_Java.HW3_4.SyudentServise.EmploeeService;
+import OOP_Java.HW3_4.StudentServise.EmploeeService;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -112,7 +112,7 @@ public class App {
 //        Collections.sort(groupList2);
 //        Collections.sort(groupList3);
 //
-//        // выплата зп через вызов класса и метода благодоря преобразования метода в static
+//        // выплата зп через вызов класса и метода благодаря преобразования метода в static
         EmploeeController.paySalary(emp);
 
         for (StudentSteam s :steamList) {

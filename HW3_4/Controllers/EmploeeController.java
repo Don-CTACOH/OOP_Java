@@ -1,7 +1,7 @@
 package OOP_Java.HW3_4.Controllers;
 
 import OOP_Java.HW3_4.StudentDomen.Emploee;
-import OOP_Java.HW3_4.SyudentServise.EmploeeService;
+import OOP_Java.HW3_4.StudentServise.EmploeeService;
 // создадим контроллер выполнения логики работ работников
 public class EmploeeController implements iPersonController<Emploee>{
     private final EmploeeService empService = new EmploeeService();

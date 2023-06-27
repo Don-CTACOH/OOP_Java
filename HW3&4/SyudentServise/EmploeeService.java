@@ -1,8 +1,8 @@
-package OOP_Java.HW3&4.SyudentServise;
+package OOP_Java.HW3_4.SyudentServise;
 
-import OOP_Java.HW3&4.StudentDomen.Emploee;
-import OOP_Java.HW3&4.StudentDomen.PersonComporator;
-import OOP_Java.HW3&4.StudentDomen.Student;
+import OOP_Java.HW3_4.StudentDomen.Emploee;
+import OOP_Java.HW3_4.StudentDomen.PersonComporator;
+import OOP_Java.HW3_4.StudentDomen.Student;
 
 import java.util.ArrayList;
 import java.util.List;
